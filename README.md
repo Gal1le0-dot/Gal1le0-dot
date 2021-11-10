@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @Gal1le0-dot
-- 👀 I’m interested in ... Computer Engineer
-- 🌱 I’m currently learning ... In mattayomsuksa 6(Grade 12)
+- 👋 Hi, I’m @Gal1le0-dot (Phuvis kerdpramote)
+- 👀 I’m interested in ... Computer Engineer , Telecommunication Engineer
+- 🌱 I’m currently learning ... In Mathayomsuksa 6 (Grade 12) of Saint dominic school,Thailand
+- 
+
 
 <!---
 Gal1le0-dot/Gal1le0-dot is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
